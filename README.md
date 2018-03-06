@@ -20,6 +20,7 @@ slam_gmapping contains a wrapper around gmapping which provides SLAM capabilitie
 ### Run the public image
 * Execute: ``docker run -p 8888:8888 robinlab/ros_gmapping:latest``
 * Open in your browser the URL shown in the docker terminal
+* Note: If you are using Docker Toolbox on Windows 7, use the Docker Machine IP instead of 0.0.0.0. For example, http://192.168.99.100:8888/?token=... To find the IP address, use the command ``docker-machine ip``.
 
 ### Build a local image
 * Clone this repository
