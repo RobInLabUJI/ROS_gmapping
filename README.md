@@ -15,5 +15,5 @@ slam_gmapping contains a wrapper around gmapping which provides SLAM capabilitie
 ## Instructions
 
 * [Install Docker](https://docs.docker.com/install/)
-* Execute: ``docker run -p 8888:8888 robinlab/ros_gampping:latest``
+* Execute: ``docker run -p 8888:8888 robinlab/ros_gmapping:latest``
 * Open in your browser the URL shown in the docker terminal
