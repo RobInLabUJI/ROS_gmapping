@@ -11,3 +11,9 @@ slam_gmapping contains a wrapper around gmapping which provides SLAM capabilitie
 * Author: Brian Gerkey
 * License: CreativeCommons-by-nc-sa-2.0
 * Source: git [https://github.com/ros-perception/slam_gmapping.git](https://github.com/ros-perception/slam_gmapping.git) (branch: hydro-devel)
+
+## Instructions
+
+* [Install Docker](https://docs.docker.com/install/)
+* Execute: ``docker run -p 8888:8888 robinlab/ros_gampping:latest``
+* Open in your browser the URL shown in the docker terminal
