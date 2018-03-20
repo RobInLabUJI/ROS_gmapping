@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/RobInLabUJI/ROS_gmapping/binder)
 # ROS_gmapping
 
 Docker image of the [ROS slam_gmapping package](http://wiki.ros.org/slam_gmapping?distro=kinetic).
